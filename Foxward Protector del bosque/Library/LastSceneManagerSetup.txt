@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/SunnyLand Artwork/Scenes/Demo_characters.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
