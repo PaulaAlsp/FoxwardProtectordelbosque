@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7764706, g: 0.3137255, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -101,8 +101,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.5990566, g: 0.80695313, b: 1, a: 1}
-    m_PressedColor: {r: 0.3290762, g: 0.77355766, b: 0.8018868, a: 1}
+    m_HighlightedColor: {r: 1, g: 0.9097877, b: 0.7877358, a: 1}
+    m_PressedColor: {r: 1, g: 0.89886475, b: 0.8915094, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -182,8 +182,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.6533966, y: -0.6535034}
-  m_SizeDelta: {x: -93.842, y: -93.842}
+  m_AnchoredPosition: {x: 0.1306, y: -0.6535034}
+  m_SizeDelta: {x: -52.0184, y: -93.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6356098758037088574
 CanvasRenderer:
@@ -215,15 +215,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Jugar
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
-  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 92418ad44fde62943a2f114b913b2162, type: 2}
+  m_sharedMaterial: {fileID: -5712152580930689417, guid: 92418ad44fde62943a2f114b913b2162, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279066123
-  m_fontColor: {r: 0.04338732, g: 0.3679245, b: 0.052794192, a: 1}
+    rgba: 4278207915
+  m_fontColor: {r: 0.6698113, g: 0.26923788, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -240,13 +240,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 42
+  m_fontSizeBase: 42
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
